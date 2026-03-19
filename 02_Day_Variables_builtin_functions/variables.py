@@ -38,3 +38,22 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
+
+
+#OUTPUT
+First name: Asabeneh
+First name length: 8
+Last name:  Yetayeh
+Last name length:  7
+Country:  Finland
+City:  Helsinki
+Age:  250
+Married:  True
+Skills:  ['HTML', 'CSS', 'JS', 'React', 'Python']
+Person information:  {'firstname': 'Asabeneh', 'lastname': 'Yetayeh', 'country': 'Finland', 'city': 'Helsinki'}
+Asabeneh Yetayeh Helsink 250 True
+First name: Asabeneh
+Last name:  Yetayeh
+Country:  Helsink
+Age:  250
+Married:  True
